@@ -1,0 +1,25 @@
+      
+.body {
+    width: 100%;
+    border: 1px solid rgba(224, 243, 242, 0.705);
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    background-color:  rgba(227, 239, 236, 0.39);
+    margin: 15px;
+    padding: 20px;
+    
+}
+
+th {
+    margin: 0 20 40px;
+    border: 1px solid rgba(210, 191, 191, 0.705);
+    border-radius: 20px;
+    width: auto;
+    height: auto;
+    padding: 5px;
+}
+
+h2 {
+    color: rgb(216, 79, 79);
+}
+
+

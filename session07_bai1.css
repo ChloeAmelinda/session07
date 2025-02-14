@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+   
+    box-sizing: border-box;
+    margin: 10%;
+    border: 20px;
+}
+.red{
+    color:beige;
+    background-color: brown;
+}
+button{
+    padding: 10px;
+    margin: 5px;
+}
+center{
+    background-color: rgb(215, 230, 230);
+    border: 20px;
+    border-radius: 15px;
+    padding: 5%;
+}
