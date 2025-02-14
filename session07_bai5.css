@@ -1,9 +1,9 @@
       
 body {
     font-family: Arial;
-    margin: 0;
+    margin: 10px;
     text-align: center;
-    padding: 0;
+    padding: 10px;
 }
 
 .text1 {
@@ -21,7 +21,7 @@ body {
     border-radius: 50px;
 }
 
-.register{
+.signIn{
     background-color: rgba(230,25,52,255);
     border-radius: 6px;
     border-color: rgba(230,25,52,255);
@@ -35,7 +35,8 @@ body {
     border-radius: 6px;
     border-color:rgba(237,39,64,255);
     color: rgba(237,26,53,255);
-    width: 40%;
+    width: 61%;
+    height: 37px;
 }
 
 .text2 {
@@ -48,7 +49,7 @@ img{
     height: 10%;
     position: absolute;
     top: -11px;
-    left: 329px;
+    left: 282px;
 }
 
 .hot{
