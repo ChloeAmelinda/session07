@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.full .fa-solid{
+    position: absolute;
+    top: 32px;
+    left: 353px;
+}
+body{
+    width: 383px;
+    padding: 3px;
+    border: 1px solid grey  ;
+    margin: 10px;
+    border-radius: 12px;
+}
+.full .one{
+    border-bottom: 1px solid grey;
+}
+.full .four{
+    border-top: 1px solid grey;
+}
+.full .two{
+    background-color: rgb(59, 59, 225);
+    color: #f8f0f0;
+    border: none;
+    border-radius: 4px;
+}
+h3{
+    font-weight: 500;
+}
+.four{
+    display: flex;
+    justify-content: flex-end;
+    border: none;
+    border-radius: 4px;
+    gap:10px;
+}
+input,textarea{
+    padding: 8px;
+    margin: 5px;
+    border-radius:  4px; 
+    width: 150%;
+    border: 1px solid grey;
+}
